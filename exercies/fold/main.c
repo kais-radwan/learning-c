@@ -2,7 +2,7 @@
 #include <string.h>
 
 #define MAX 100
-#define LONGTXT 15
+#define LONGTXT 10
 
 int main() {
   char text[MAX] = "";
